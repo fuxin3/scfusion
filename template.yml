@@ -1,0 +1,11 @@
+name: scfusion
+description: A bioinformatics pipeline analysis fusion gene.
+author: fuxin
+prefix: fuxin3
+skip:
+  - github
+  - ci
+  - github_badges
+  - igenomes
+  - nf_core_configs
+outdir: ./
